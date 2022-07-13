@@ -1,9 +1,7 @@
 <template>
-  <div>测试</div>
+  <div>
+    <AcIcon color="red" :size="30" class="ac-icon-lanqiu">Hello</AcIcon>
+  </div>
 </template>
 
-<script>
-export default {}
-</script>
-
-<style lang="scss" scoped></style>
+<script lang="ts" setup></script>

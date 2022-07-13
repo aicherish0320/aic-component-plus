@@ -1,0 +1,3 @@
+// 声明公共的 sass 方法
+@use 'config' as *;
+@forward 'config';
